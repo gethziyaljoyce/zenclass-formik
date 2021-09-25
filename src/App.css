@@ -1,0 +1,17 @@
+.container{
+    height:30rem;
+    max-width:50rem;
+    border:2px solid darkblue;
+    text-align:center;
+    background-color: dimgrey;
+    margin:auto;
+}
+h1{
+   color:darkblue;
+   font-weight: 200;
+}
+.fName,.lName,.email,.pword,.btn{
+    font-size: large;
+    font-weight: 200;
+    margin-bottom: 1rem;
+}
